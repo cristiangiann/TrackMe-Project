@@ -15,4 +15,4 @@ The complete description of the requirements for the Requirements Analysis and S
 ## Deliverables
  + [Slides for the presentation](https://github.com/cristiangiann/TrackMe-Project/blob/master/DeliveryFolder/Presentation/SE2.pdf)
  + [Requirements Analysis and Specification Document v. 1.1](https://github.com/cristiangiann/TrackMe-Project/blob/master/DeliveryFolder/Version%201.1/RASD.pdf)
- + [Deseign Document v. 1.1](https://github.com/cristiangiann/TrackMe-Project/blob/master/DeliveryFolder/Version%201.1/DD.pdf)
+ + [Design Document v. 1.1](https://github.com/cristiangiann/TrackMe-Project/blob/master/DeliveryFolder/Version%201.1/DD.pdf)
